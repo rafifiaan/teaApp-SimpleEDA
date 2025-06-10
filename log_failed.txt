@@ -1,0 +1,1 @@
+[2025-06-10T06:02:40.314Z] GAGAL: Gui pesan 4 Teh Hijau - Alasan: Stok tidak cukup (tersisa 3)
